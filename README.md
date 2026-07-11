@@ -39,8 +39,6 @@ During initial architecture evaluations, multiple machine learning approaches we
 Ensure your local project directory contains the following core files:
 ```text
 📦 Earthquake-Prediction
- ┣ 📂 .streamlit
- ┃ ┗ 📜 config.toml           # UI Theme configurations
  ┣ 📜 earthquake_app.py       # Core Streamlit dashboard engine
  ┣ 📜 random_forest.pkl       # Trained serialized model artifact
  ┗ 📜 README.md               # Documentation
